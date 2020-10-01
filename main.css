@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+width: 100%;
+height: auto;
+background-image:url("images/IMG_0839\ copy.JPG");
+background-size: cover;
+background-attachment: fixed;
+}
+
+
+nav {
+    width: 100%;
+    height:50px;
+    
+}
+
+
+
+
+
+
+ul li {
+    list-style: none;
+    display:inline-block;
+    line-height: 50px;}
+
+ul li a {
+text-decoration: none;
+font-family:'Roboto Condensed', sans-serif;
+font-size: 14px;
+padding: 0 20px;
+color: black;}
+
+a:hover {
+color:#F1ECCE;
+}
+
+
+
+
+.welcome{
+text-align: center;
+margin: 0;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 150px;
+/* color: rgb(247, 138, 219); */
+color: peachpuff
+}
+
+/* .aboutme {
+    background-color:cornflowerblue;} */
+
+.container{
+    width: 900px;
+    height:1200px;
+    margin: 80px auto;
+    /* background: rgb(80, 170, 255); */
+    background-color: rgb(0, 0, 0, 0.3);
+    position: relative;
+}    
+
+.hi{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#F1ECCE}
+.bio-text{
+    text-align: justify;
+    padding: 40px;
+    font-family: 'Source Sans Pro', sans-serif;}
+
+
+
+.why-code{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 40px;
+    color:#F1ECCE;
+    
+}
+
+
+.why-code-text{
+    text-align: justify;
+    padding: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.contact{
+text-align: center;
+margin: 0;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+margin: 10px auto;
+padding: 70px;
+background: rgb(0, 0, 0, 0.3);
+}
+
+.container2{
+    width: 900px;
+    height:2550px;
+    margin: 80px auto;
+    background: rgb(0, 0, 0, 0.3);
+    position: relative;
+}    
+
+.container3{
+    width: 900px;
+    height:200px;
+    margin: 80px auto;
+    background: rgb(0, 0, 0, 0.3);
+    position: relative;
+}    
+
+.container3{
+    width: 900px;
+    height:1350px;
+    margin: 80px auto;
+    background: rgb(0, 0, 0, 0.3);
+    position: relative;
+}    
+
+.container4{
+    width: 900px;
+    height:1350px;
+    margin: 80px auto;
+    background: rgb(0, 0, 0, 0.3);
+    position: relative;
+}    
+
+.container5{
+    width: 900px;
+    height:1350px;
+    margin: 80px auto;
+    background: rgb(0, 0, 0, 0.3);
+    position: relative;
+}    
+
+.unit-one{
+    width: 900px;
+    height:190px;
+    margin: 80px auto;
+    text-align: center;
+    background: rgb(0, 0, 0, 0.3);
+    position: relative;
+}    
+
+p{  
+    text-align: justify;
+    padding: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: peachpuff;
+}
+    
+
+h2,h3{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#F1ECCE;}
+
+
+
+
+
